@@ -76,7 +76,7 @@ header, ul, li, a{
     .menu a:hover,
     .show-menu:hover,
     .hide-menu{
-        color: #ffffff;
+        color: #D1AAA3;
         transition: 0.2s ease-out;
     }
 
