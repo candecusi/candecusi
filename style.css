@@ -594,7 +594,8 @@ footer{
                 }
 
                 header img{
-                    width: 40px;
+                    margin-top: 3px;
+                    width: 43px;
                 }
 
                 header, ul, li, a{
